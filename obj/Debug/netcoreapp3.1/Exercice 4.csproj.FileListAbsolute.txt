@@ -1,0 +1,13 @@
+C:\Users\Jérôme\Documents\www\C#\P4\Tableaux\Exercice 4\bin\Debug\netcoreapp3.1\Exercice 4.exe
+C:\Users\Jérôme\Documents\www\C#\P4\Tableaux\Exercice 4\bin\Debug\netcoreapp3.1\Exercice 4.deps.json
+C:\Users\Jérôme\Documents\www\C#\P4\Tableaux\Exercice 4\bin\Debug\netcoreapp3.1\Exercice 4.runtimeconfig.json
+C:\Users\Jérôme\Documents\www\C#\P4\Tableaux\Exercice 4\bin\Debug\netcoreapp3.1\Exercice 4.runtimeconfig.dev.json
+C:\Users\Jérôme\Documents\www\C#\P4\Tableaux\Exercice 4\bin\Debug\netcoreapp3.1\Exercice 4.dll
+C:\Users\Jérôme\Documents\www\C#\P4\Tableaux\Exercice 4\bin\Debug\netcoreapp3.1\Exercice 4.pdb
+C:\Users\Jérôme\Documents\www\C#\P4\Tableaux\Exercice 4\obj\Debug\netcoreapp3.1\Exercice 4.csprojAssemblyReference.cache
+C:\Users\Jérôme\Documents\www\C#\P4\Tableaux\Exercice 4\obj\Debug\netcoreapp3.1\Exercice 4.AssemblyInfoInputs.cache
+C:\Users\Jérôme\Documents\www\C#\P4\Tableaux\Exercice 4\obj\Debug\netcoreapp3.1\Exercice 4.AssemblyInfo.cs
+C:\Users\Jérôme\Documents\www\C#\P4\Tableaux\Exercice 4\obj\Debug\netcoreapp3.1\Exercice 4.csproj.CoreCompileInputs.cache
+C:\Users\Jérôme\Documents\www\C#\P4\Tableaux\Exercice 4\obj\Debug\netcoreapp3.1\Exercice 4.dll
+C:\Users\Jérôme\Documents\www\C#\P4\Tableaux\Exercice 4\obj\Debug\netcoreapp3.1\Exercice 4.pdb
+C:\Users\Jérôme\Documents\www\C#\P4\Tableaux\Exercice 4\obj\Debug\netcoreapp3.1\Exercice 4.genruntimeconfig.cache
